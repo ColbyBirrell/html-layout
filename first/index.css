@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color:white;
+}
+
+.top-box {
+    width: 'device-width';
+    height: 20vh;
+    background-color: red;
+    
+    
+}
+
+.center-box {
+    width: 75vw;
+    height: 70vh;
+    background-color: lightcoral;
+    margin: auto;
+    
+}
+
+.bottom-box {
+    width: 75vw;
+    height: 10vh;
+    background-color: teal;
+    margin: auto;
+
+}

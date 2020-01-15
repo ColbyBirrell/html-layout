@@ -1,0 +1,59 @@
+.row {
+    height: 10vh;
+    width: 100%;
+    
+}
+
+.big-row {
+    height: 20vh;
+    width: 100%;
+    box-sizing: border-box;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+#text {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.small-blue {
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    display: inline-block;
+    margin: 10px 10px;
+
+}
+
+#grey {
+    background-color: grey;
+
+}
+
+#white-bar {
+    background-color: white;
+
+}
+
+#blue-bar {
+    background-color: blue;
+
+}
+
+#green-bar {
+    background-color: green;
+
+}
+
+#light-green-bar {
+    background-color: greenyellow;
+
+}
+
+#yellow-bar {
+    background-color: yellow;
+
+}
+
